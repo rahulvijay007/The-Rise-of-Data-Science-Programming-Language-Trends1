@@ -1,0 +1,26 @@
+# R specific
+.Rhistory
+.RData
+.Rproj.user
+.Rproj
+*.Rproj
+
+# RStudio files
+.Rproj.user/
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files (keep only docs/ for GitHub Pages)
+*.html
+!docs/*.html
+
+# Packrat
+packrat/lib*/
+packrat/src/
